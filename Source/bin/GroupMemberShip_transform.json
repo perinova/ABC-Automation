@@ -1,0 +1,8 @@
+{
+    "Type" : "Transform",
+    "Version" : "V1",
+    "Transform" : {
+        "Identity" : "name",
+        "Members" : "users.primary_email"
+    }
+}
